@@ -9,3 +9,5 @@ import com.sun.*;
 import templates..;
 
 import  com.javafx.*;
+
+import com.*;  //1.6
